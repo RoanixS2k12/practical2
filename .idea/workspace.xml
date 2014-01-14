@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="autoload_namespace.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload_namespace.php">
+      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="175" selection-end="175" vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="455">
+            <state line="9" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="7" selection-start="255" selection-end="262" vertical-scroll-proportion="0.9300912" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -35,70 +44,7 @@
       <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload_underscore.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload_underscore.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload_cache.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload_cache.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="362" selection-end="362" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_underscore.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_underscore.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_namespace.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_namespace.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="10" selection-start="78" selection-end="84" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="323">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Orange.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/Soda/Juice/Orange.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="20" selection-start="21" selection-end="26" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bali.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/Coffee/Bali.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="9" column="16" selection-start="183" selection-end="183" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -107,7 +53,7 @@
       <file leaf-file-name="test_cache.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_cache.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
+            <state line="9" column="25" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8076925" vertical-offset="2" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -126,15 +72,16 @@
         <option value="$PROJECT_DIR$/test_cache.php" />
         <option value="$PROJECT_DIR$/vendor/autoload_cache.php" />
         <option value="$PROJECT_DIR$/vendor/autoload_namespace.php" />
+        <option value="$PROJECT_DIR$/vendor/autoload_underscore.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
-    <option name="y" value="74" />
+    <option name="x" value="538" />
+    <option name="y" value="7" />
     <option name="width" value="1004" />
-    <option name="height" value="681" />
+    <option name="height" value="513" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -233,7 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="581" y="74" width="1004" height="681" extended-state="0" />
+    <frame x="538" y="7" width="1004" height="513" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -315,58 +262,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_underscore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="523">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cache.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload_cache.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="362" selection-end="362" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload_underscore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="502">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="502">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_namespace.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="10" selection-start="78" selection-end="84" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="502">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/Soda/Juice/Orange.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="21" selection-end="26" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
@@ -378,9 +276,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload_cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="735" selection-end="735" vertical-scroll-proportion="-9.807693" vertical-offset="153" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/autoload_namespace.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="175" selection-end="175" vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="455">
+        <state line="10" column="32" selection-start="175" selection-end="175" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Soda/Juice/Orange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_underscore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload_underscore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="63" selection-start="192" selection-end="192" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.8076925" vertical-offset="2" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="183" selection-end="183" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="7" selection-start="255" selection-end="262" vertical-scroll-proportion="0.9300912" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
