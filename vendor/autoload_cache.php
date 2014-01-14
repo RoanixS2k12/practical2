@@ -11,3 +11,20 @@ $autoload_map = array(
 );
 
 /* register autoloader here */
+
+/*$closure = function($autoload_map) {
+        require_once __DIR__ . DIRECTORY_SEPARATOR . $autoload_map . '.php';
+};
+spl_autoload_register($closure);*/
+
+function closure($autoload_map){
+    require_once __DIR__ . DIRECTORY_SEPARATOR . $autoload_map . '.php';
+};
+spl_autoload_register('closure');
+
+/*
+spl_autoload_register(function ($autoload_map)  {
+    include __DIR__ . DIRECTORY_SEPARATOR . $autoload_map . '.php';
+});*/
+
+
